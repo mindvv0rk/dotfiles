@@ -1,0 +1,9 @@
+[directories]
+
+dotfiles = "$HOME/Projects/dotfiles"
+
+
+[mapping]
+
+
+"git/config" = ".gitconfig"
